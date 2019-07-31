@@ -1,0 +1,19 @@
+li {
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: 400px;
+}
+#navbar{
+  background-color: transparent !important;
+}
+#book{
+  color: rgb(184, 59, 163);
+}
+#border{
+  border-bottom-width:15px;
+  border-right-width:15px;
+  height: 350px;
+  width: 100%;
+  background-color: rgb(255, 251, 245);
+}
